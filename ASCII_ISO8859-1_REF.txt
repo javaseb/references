@@ -3,16 +3,16 @@ The Full list of ASCII characters for Java:
 charaters can be created like this
 
 //the 'a' character:
-char c = 0b0110_0001; 	//base 2 (you can omit the '_' character... it's just for visibility)
-char c = 0141; 			//base 8
-char c = 97;			//base 10
-char c = 0x61;			//base 16
+char c = 0b0110_0001;   //base 2 (you can omit the '_' character... it's just for visibility)
+char c = 0141;          //base 8
+char c = 97;            //base 10
+char c = 0x61;          //base 16
 
 
 
 ASCII control characters non printable :
 
-BASE2			   BASE8		BASE10	  BASE16
+BASE2             BASE8       BASE10     BASE16
 0b0000_0000        0000          0        0x00         : character NULL ( Null character )
 0b0000_0001        0001          1        0x01         : character = SOH ( Start of Header )
 0b0000_0010        0002          2        0x02         : character = STX ( Start of Text )
