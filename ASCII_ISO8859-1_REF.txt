@@ -1,4 +1,4 @@
-The Full list of ASCII characters for Java:
+The Full list of ASCII and ISO8859-1 (which is the ASCII extended... starting at 128) characters for Java:
 
 charaters can be created like this
 
