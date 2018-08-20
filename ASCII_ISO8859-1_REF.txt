@@ -1,14 +1,11 @@
-The Full list of ASCII and ISO8859-1 (which is the ASCII extended... starting at 128) characters for Java:
+Here is the Full list of ASCII and ISO-8859-1 or Latin-1 (which is the ASCII extended... starting at 128) characters for Java:
 
-charaters can be created like this
-
-//the 'a' character:
+charaters can be created like this:
+//e.g. the 'a' character:
 char c = 0b0110_0001;   //base 2 (you can omit the '_' character... it's just for visibility)
 char c = 0141;          //base 8
 char c = 97;            //base 10
 char c = 0x61;          //base 16
-
-
 
 ASCII control characters non printable :
 
@@ -49,6 +46,7 @@ BASE2             BASE8       BASE10     BASE16
 
 Printable ASCII characters : ( alphanumeric, symbols and signs )
 
+BASE2             BASE8       BASE10     BASE16
 0b0010_0000        0040         32        0x20         : character  = space ( Space )
 0b0010_0001        0041         33        0x21         : character != ! ( Exclamation mark )
 0b0010_0010        0042         34        0x22         : character "= " ( Double quotes ; Quotation mark ; speech marks )
@@ -147,6 +145,7 @@ Printable ASCII characters : ( alphanumeric, symbols and signs )
 
 ASCII Extended Characters (AS PART OF ISO-8859-1 OR ISO-LATIN-1) used by French for example:
 
+BASE2             BASE8       BASE10     BASE16
 0b1000_0000        0200        128        0x80         : character = Ç ( Majuscule C-cedilla )
 0b1000_0001        0201        129        0x81         : character = ü ( letter u with umlaut or diaeresis , u-umlaut )
 0b1000_0010        0202        130        0x82         : character = é ( letter e with acute accent or e-acute )
