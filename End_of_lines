@@ -3,6 +3,6 @@
   Windows      = '\r\n'
   Mac (OS 9-)  = '\r'
   Mac (OS 10+) = '\n'
-  Unix/Linux	  = '\n'
+  Unix/Linux   = '\n'
   
   In java you can use System.lineSeparator(); (@since 1.7)
