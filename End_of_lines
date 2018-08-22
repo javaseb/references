@@ -1,0 +1,8 @@
+ Beware of end of lines (which are different between OS):
+ 
+  Windows		= '\r\n'
+  Mac (OS 9-)	= '\r'
+  Mac (OS 10+)= '\n'
+  Unix/Linux	= '\n'
+  
+  In java (@since 1.7) you can use System.lineSeparator();
