@@ -6,3 +6,5 @@
   Unix/Linux   = '\n'
   
   In java you can use System.lineSeparator(); (@since 1.7)
+  
+  
