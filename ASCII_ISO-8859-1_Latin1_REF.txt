@@ -1,5 +1,7 @@
 Here is the Full list of ASCII and ISO-8859-1 or Latin-1 (which is the ASCII extended... starting at 128) characters for Java:
 
+Note: its hold on 8 unsigned bit (0-255).
+
 charaters can be created like this:
 //e.g. the 'a' character:
 char c = 0b0110_0001;   //base 2 (you can omit the '_' character... it's just for visibility)
