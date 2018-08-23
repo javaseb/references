@@ -1,5 +1,13 @@
-
+Unicode n'est pas seulement un mapping de character. Il permet aussi de spécifier quel est le type de ceux-ci.
 
 Mastering Regular Expression page 121: 
 
-«On its surface, Unicode is a mapping (like ASCII), but the Unicode Standard offers much more. It also defines qualities about each character, such as "this character is a lowercase letter", "this character is meant to be written right-to-left", "this character is a mark that's meant to be combined with another character", etc. »
+«
+On its surface, Unicode is a mapping (like ASCII), but the Unicode Standard offers much more. 
+It also defines qualities about each character, such as:
+
+"this character is a lowercase letter", 
+"this character is meant to be written right-to-left", 
+"this character is a mark that's meant to be combined with another character", 
+etc. 
+»
