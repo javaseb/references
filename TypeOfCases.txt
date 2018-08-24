@@ -1,0 +1,8 @@
+
+
+@see https://titlecase.com/
+
+
+Title Case: All the first letter of words are in uppercase, and the other are in lowercase. 
+
+e.g. :  ceci est un test ou cECI eST uN tEST =  Ceci est un test
